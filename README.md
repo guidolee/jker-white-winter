@@ -1,11 +1,11 @@
-# Purple Wave
+# White Winter
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/jker.purple-wave.svg)](https://marketplace.visualstudio.com/items?itemName=jker.purple-wave)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/jker.purple-wave.svg)](https://marketplace.visualstudio.com/items?itemName=jker.purple-wave)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/jkerwhite-winter.svg)](https://marketplace.visualstudio.com/items?itemName=jkerwhite-winter)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/jkerwhite-winter.svg)](https://marketplace.visualstudio.com/items?itemName=jkerwhite-winter)
 
-**Purple Wave** is a minimalistic VS Code theme based on [Subliminal](https://github.com/gaearon/subliminal) and [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme).
+**White Winter** is an almost pure white VS Code theme.
 
-![Screenshot](https://raw.githubusercontent.com/guidolee/jker-purple-wave/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/guidolee/jker-white-winter/master/screenshot.png)
 
 ## Disclaimer
 
@@ -26,13 +26,12 @@ I've added some configuration to visualize this as minimalistic as posible. Feel
     "editor.letterSpacing": 0.3,
     "editor.minimap.renderCharacters": false,
     "editor.minimap.maxColumn": 200,
-    "editor.minimap.showSlider": "always",
     "editor.tabSize": 4,
     "window.zoomLevel": 0,
     "explorer.confirmDragAndDrop": false,
-    "workbench.colorTheme": "jker Purple Wave",
+    "workbench.colorTheme": "White Winter",
     "workbench.iconTheme": "material-icon-theme",
-    "material-icon-theme.folders.color": "#94a2af",
+    "material-icon-theme.folders.color": "#777777",
     "material-icon-theme.activeIconPack": "react",
     "material-icon-theme.folders.theme": "classic",
     "material-icon-theme.hidesExplorerArrows": true,
