@@ -1,0 +1,43 @@
+{
+	"name": "white-winter",
+	"displayName": "White Winter",
+	"description": "Almost pure white VS Code theme",
+	"version": "1.0.0",
+	"publisher": "jker",
+	"preview": true,
+	"engines": {
+		"vscode": "^1.36.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/guidolee/jker-white-winter.git"
+	},
+	"bugs": {
+		"url": "https://github.com/guidolee/jker-white-winter/issues"
+	},
+	"keywords": [
+		"theme",
+		"minimal",
+		"light",
+		"white",
+		"winter"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "White Winter",
+				"uiTheme": "vs",
+				"path": "./themes/White-Winter-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a607c507-d986-4dd6-9042-cbd8c00d1dd5",
+		"publisherDisplayName": "jker",
+		"publisherId": "bafd1827-5cb9-43e5-af4b-a089255c35fb"
+	}
+}
