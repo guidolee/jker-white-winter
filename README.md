@@ -1,15 +1,11 @@
 # White Winter
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/jkerwhite-winter.svg)](https://marketplace.visualstudio.com/items?itemName=jkerwhite-winter)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/jkerwhite-winter.svg)](https://marketplace.visualstudio.com/items?itemName=jkerwhite-winter)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/jker.white-winter.svg)](https://marketplace.visualstudio.com/items?itemName=jker.white-winter)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/jker.white-winter.svg)](https://marketplace.visualstudio.com/items?itemName=jker.white-winter)
 
-**White Winter** is an almost pure white VS Code theme.
+**White Winter** is an almost pure white VS Code theme with plain color customization. The use of bold text and light accents was the principal idea.
 
 ![Screenshot](https://raw.githubusercontent.com/guidolee/jker-white-winter/master/screenshot.png)
-
-## Disclaimer
-
-I'm a designer based in La Plata, Argentina. This theme was made focused on CSS/Less/Sass readability, it also has several color modifications on HTML/JS but that was not the main idea to do it.
 
 I'm using [Victor Mono](https://rubjo.github.io/victor-mono/) font and [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) for icons/folders.
 
@@ -26,14 +22,15 @@ I've added some configuration to visualize this as minimalistic as posible. Feel
     "editor.letterSpacing": 0.3,
     "editor.minimap.renderCharacters": false,
     "editor.minimap.maxColumn": 200,
+    "editor.minimap.showSlider": "always",
     "editor.tabSize": 4,
     "window.zoomLevel": 0,
-    "explorer.confirmDragAndDrop": false,
     "workbench.colorTheme": "White Winter",
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.folders.color": "#777777",
     "material-icon-theme.activeIconPack": "react",
     "material-icon-theme.folders.theme": "classic",
+    "material-icon-theme.showUpdateMessage": false,
     "material-icon-theme.hidesExplorerArrows": true,
     "material-icon-theme.showWelcomeMessage": false,
     "material-icon-theme.showReloadMessage": false,
